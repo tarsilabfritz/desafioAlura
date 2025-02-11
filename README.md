@@ -1,6 +1,7 @@
-# Curso - Java: criando sua primeira aplicação
+# Curso - Java: criando sua primeira aplicação (Controle de Conta Bancária Virtual)
 
 Projeto desenvolvido como desafio final do curso "Java: criando a sua primeira aplicação" da Alura.
+
 
 ## 📝 Descrição
 O objetivo deste projeto é simular uma aplicação simples de controle de conta bancária virtual em Java. Durante o desenvolvimento, aplicamos conceitos fundamentais como declaração de variáveis, condicionais, loops e manipulação de dados de entrada e saída.
